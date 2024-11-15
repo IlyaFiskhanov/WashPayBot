@@ -1,0 +1,5 @@
+#config.py
+TOKEN = "#"
+YOUR_TELEGRAM_USER_ID = "#"
+URL_HOSTS = "#"
+PAYMENTS_TOKEN = "#"
